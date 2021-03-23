@@ -1,5 +1,4 @@
-# リポジトリ名
-Present
+# Present
 
 ## 使い方
 
@@ -14,9 +13,9 @@ Present
 
 ## 環境
 
-* laravel
-* mysql
-* docker
+* laravel 6.2
+* mysql 8.0
+* docker 3.8
 
 
 ## 注意事項
@@ -26,11 +25,8 @@ Present
 ## 文責
 
 * 本拓朗
-* 独学（転職中）
+* 独学（転職活動中）
 * E-mail:fanky0jonson@gmail.com
-
-
-## ライセンス
 
 
 ## 参考文献
