@@ -26,15 +26,19 @@
 
 * 本拓朗
 * 独学（転職活動中）
-* E-mail:fanky0jonson@gmail.com
+* E-mail:<fanky0jonson@gmail.com>
 
 
 ## 参考文献
 
 * dockerの導入は以下サイトを参考にした
+
 <https://qiita.com/shimotaroo/items/29f7878b01ee4b99b951>
+
 <https://qiita.com/shimotaroo/items/679104b7e00dd9f89907>
+
 <https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4>
 
 * readme については以下を参考にした
+
 <https://laraweb.net/surrounding/7477/>
